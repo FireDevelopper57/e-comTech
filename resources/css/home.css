@@ -1,0 +1,15 @@
+.carousel{
+    margin-top:0;
+}
+#navbar-1{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+footer{
+    margin:0;
+}
+
+.card{
+    display: inline-block;
+}
